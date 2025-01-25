@@ -11,7 +11,7 @@
 - **Code Blocks**: Fenced code blocks (```) for commands and source code.
 - **Horizontal Lines**: The `---` creates a horizontal rule.
 
-```
+\```
 curl -s https://example.com | grep "placeholder"
-```
+\```
 Copy and paste this Markdown into a file named `README.md` (or another `.md` file), and you’ll see it formatted nicely when viewed on GitHub or another Markdown renderer.
